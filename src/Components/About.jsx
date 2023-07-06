@@ -3,7 +3,7 @@ import phone from "../assets/phone.png";
 
 const About = () => {
   return (
-    <section className="w-full py-small bg-white text-amber-600">
+    <section className="w-full py-small bg-white text-amber-600" id="about">
       <div className="container flex justify-center items-center flex-col ">
         <h1
           className="font-Header text-6xl break-all text-orange-100 lg:text-9xl uppercase"

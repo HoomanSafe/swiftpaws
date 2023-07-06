@@ -3,7 +3,7 @@ import mic from "../assets/mic.png";
 
 const Mics = () => {
   return (
-    <section className="py-small bg-amber-600 w-full">
+    <section className="py-small bg-amber-600 w-full" id="tokenomics">
       <div className="container flex justify-center items-center flex-col ">
         <h1
           className="font-Header text-6xl break-all text-orange-100 lg:text-9xl uppercase"
