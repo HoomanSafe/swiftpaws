@@ -81,7 +81,7 @@ const Map = () => {
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  Deliver Elon a Daddy Doge tshirt and mascot
+                  Deliver Elon a daddy doge 2.0 tshirt and mascot
                 </div>
               </div>
               <div className="justify-start items-center gap-3 inline-flex">
@@ -122,13 +122,13 @@ const Map = () => {
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  Daddy Doge to Mars 2.0
+                  daddy doge 2.0 to Mars 2.0
                 </div>
               </div>
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  Daddy Doge new awakening{" "}
+                  daddy doge 2.0 new awakening{" "}
                 </div>
               </div>
               <h1 className="text-center text-white text-4xl leading-10">

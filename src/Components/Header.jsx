@@ -10,7 +10,7 @@ const Header = () => {
           data-aos="fade-right"
           data-aos-duration="1500"
         >
-          daddy doge
+          daddy doge 2.0
         </a>
 
         <ul

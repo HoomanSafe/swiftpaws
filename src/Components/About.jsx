@@ -36,13 +36,13 @@ const About = () => {
             >
               Exactly 2 years ago. one of our team members “Tyler” waited
               outside for Elon Musk to exit the courthouse. in his hand read a
-              sign that said “ Daddy Doge to Mars”. We asked Elon to say it and
-              he did! that day Daddy Doge was born on BSC. Since then Elon Had
-              mentioned “Daddy Doge 2 more times. this Indeed started our
-              mission to space. As we took the title of the first meme coin in
-              space we established major partnerships and connections along the
-              way. Buckle in. now we go to where no other crypto project had
-              ventured before.
+              sign that said “ daddy doge 2.0 to Mars”. We asked Elon to say it
+              and he did! that day daddy doge 2.0 was born on BSC. Since then
+              Elon Had mentioned “daddy doge 2.0 2 more times. this Indeed
+              started our mission to space. As we took the title of the first
+              meme coin in space we established major partnerships and
+              connections along the way. Buckle in. now we go to where no other
+              crypto project had ventured before.
             </p>
             <a
               href=""
