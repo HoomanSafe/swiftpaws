@@ -22,7 +22,7 @@ const Map = () => {
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  token launch On eth
+                  token launch On bsc
                 </div>
               </div>
               <div className="justify-start items-center gap-3 inline-flex">
@@ -81,7 +81,7 @@ const Map = () => {
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  Deliver Elon a daddy doge 2.0 tshirt and mascot
+                  Deliver SwiftPaws tshirt and mascot
                 </div>
               </div>
               <div className="justify-start items-center gap-3 inline-flex">
@@ -122,13 +122,7 @@ const Map = () => {
               <div className="justify-start items-center gap-3 inline-flex">
                 <div className="w-3 h-3 relative bg-white rounded-full" />
                 <div className="text-white text-[16px] font-normal">
-                  daddy doge 2.0 to Mars 2.0
-                </div>
-              </div>
-              <div className="justify-start items-center gap-3 inline-flex">
-                <div className="w-3 h-3 relative bg-white rounded-full" />
-                <div className="text-white text-[16px] font-normal">
-                  daddy doge 2.0 new awakening{" "}
+                  SwiftPaws new awakening{" "}
                 </div>
               </div>
               <h1 className="text-center text-white text-4xl leading-10">
