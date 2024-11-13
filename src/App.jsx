@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
-import Banner from "./assets/banner1.png";
+import Banner from "./assets/banner4.png";
 import Photo from "./Components/Photo";
 import Mics from "./Components/Mics";
 import Map from "./Components/Map";
@@ -26,7 +26,6 @@ const App = () => {
       <a href="" data-aos="zoom-out" data-aos-duration="1500">
         <img src={Banner} alt="" className="w-full" />
       </a>
-      <Photo />
       <Mics />
       <Map />
       <Footer />
