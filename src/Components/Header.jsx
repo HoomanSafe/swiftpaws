@@ -12,7 +12,7 @@ const Header = () => {
           data-aos="fade-right"
           data-aos-duration="1500"
         >
-          daddy doge 2.0
+          SwiftPaws
         </a>
 
         <ul
