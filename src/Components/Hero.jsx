@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/logo2.png";
 
 const Hero = () => {
   return (
@@ -11,11 +11,11 @@ const Hero = () => {
             data-aos="fade-right"
             data-aos-duration="700"
           >
-            The only other token Elon ever mentioned outside of Doge!
+            SwiftPaws – 
+a breakthrough that navigates the sophisticated waters of blockchain and artificial intelligence. 
           </h1>
           <p className="text-xl" data-aos="fade-right" data-aos-duration="500">
-            We started our mission 2 years ago. now the team is back and
-            launching on ETH. Same team. New Mission.
+            This is not just a journey; this is the birth of a new era in digital finance💵
           </p>
           <a
             href=""
@@ -25,6 +25,24 @@ const Hero = () => {
           >
             buy now
           </a>
+
+          <a
+            href="https://medium.com/@SwiftPaws"
+            className=" px-8 py-4 bg-white rounded shadow text-amber-600 uppercase font-Header"
+            data-aos="fade-right"
+            data-aos-duration="900"
+          >
+            Medium
+          </a>
+          <a
+            href="https://www.reddit.com/user/SwiftPawsBsc/"
+            className=" px-8 py-4 bg-white rounded shadow text-amber-600 uppercase font-Header"
+            data-aos="fade-right"
+            data-aos-duration="900"
+          >
+            Reddit
+          </a>
+          
         </article>
         <article className=" relative flex justify-center items-center">
           <img
