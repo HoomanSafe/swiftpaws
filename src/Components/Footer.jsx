@@ -1,5 +1,5 @@
 import React from "react";
-import Footerlogo from "../assets/footerLogo.png";
+import Footerlogo from "../assets/logo2.png";
 
 const Footer = () => {
   return (
@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container flex flex-col gap-8 justify-center items-center">
         <img src={Footerlogo} alt="" />
         <div className="flex gap-5 items-center flex-wrap justify-center md:flex-nowrap">
-          <a href="" className="">
+          <a href="https://t.me/SwiftPaws_tg" className="">
             <svg
               width="55"
               height="55"
@@ -25,7 +25,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="" className="">
+          <a href="https://x.com/SwiftPawsBsc" className="">
             <svg
               width="55"
               height="55"
