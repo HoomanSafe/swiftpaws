@@ -1,5 +1,5 @@
 import React from "react";
-import phone from "../assets/phone.png";
+import phone from "../assets/logo2.png";
 
 const About = () => {
   return (
@@ -27,25 +27,18 @@ const About = () => {
               data-aos="zoom-in"
               data-aos-duration="900"
             >
-              History. - Mission 2.0
+              History. - Mission
             </h1>
             <p
               className="text-black leading-[32px]"
               data-aos="zoom-in"
               data-aos-duration="1500"
             >
-              Exactly 2 years ago. one of our team members “Tyler” waited
-              outside for Elon Musk to exit the courthouse. in his hand read a
-              sign that said “ daddy doge 2.0 to Mars”. We asked Elon to say it
-              and he did! that day daddy doge 2.0 was born on BSC. Since then
-              Elon Had mentioned “daddy doge 2.0 2 more times. this Indeed
-              started our mission to space. As we took the title of the first
-              meme coin in space we established major partnerships and
-              connections along the way. Buckle in. now we go to where no other
-              crypto project had ventured before.
+              SwiftPaws  is a clever blend of cutting-edge technology and timeless cultural charm. It's not just a community-based token; this is an AI-driven revolution, deeply embedded in the Binance Smart Chain. SwiftPaws is poised to become a Crypto Titan by 2025. Swiftpaws is not just a token, 
+              it is the future of crypto.
             </p>
             <a
-              href=""
+              href="https://t.me/SwiftPaws_tg"
               className=" px-8 py-4 bg-amber-500 rounded shadow text-white uppercase font-Header"
               data-aos="flip-left"
               data-aos-duration="1500"
