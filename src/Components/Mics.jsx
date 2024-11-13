@@ -1,5 +1,5 @@
 import React from "react";
-import mic from "../assets/mic.png";
+import mic from "../assets/banner4.jpeg";
 
 const Mics = () => {
   return (
@@ -20,7 +20,7 @@ const Mics = () => {
               data-aos="fade-left"
               data-aos-duration="1500"
             >
-              TOKEN SUPPLY: 100,000,000
+              TOKEN SUPPLY: 200,000,000,000
             </h3>
 
             <div className="flex flex-col mt-10 gap-8 font-fredokaOne">
@@ -34,7 +34,7 @@ const Mics = () => {
                     Supply
                   </div>
                   <div className=" text-[24px] font-normal leading-loose">
-                    100,000,000
+                    200,000,000,000
                   </div>
                 </div>
                 <div className="w-full h-5  bg-red-100 rounded-full justify-start items-center inline-flex">
@@ -63,7 +63,7 @@ const Mics = () => {
                         });
                     }}
                   >
-                    0x171e..............
+                    0x00000..............
                   </div>
                 </div>
                 <div className="w-full h-5  bg-red-100 rounded-full justify-start items-center inline-flex">
