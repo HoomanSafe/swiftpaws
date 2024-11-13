@@ -26,6 +26,7 @@ const App = () => {
       <a href="" data-aos="zoom-out" data-aos-duration="1500">
         <img src={Banner} alt="" className="w-full" />
       </a>
+      {/* <Photo /> */}
       <Mics />
       <Map />
       <Footer />
